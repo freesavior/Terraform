@@ -9,7 +9,7 @@ Terraform installé sur votre machine locale. Vous pouvez le télécharger à pa
 
 Je me suis basé sur l'infrastructure présentée sur le site d'Amazon https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html pour créer mon propre modèle.
 
-![Infra du projet]([(https://docs.aws.amazon.com/images/vpc/latest/userguide/images/vpc-example-private-subnets.png)
+![Infra du projet](https://docs.aws.amazon.com/images/vpc/latest/userguide/images/vpc-example-private-subnets.png)
 
 Ce dépôt contient des fichiers Terraform pour déployer une infrastructure sur AWS qui répond à la description suivante :
 - VPC : Création de la VPC "Production" avec deux sous-réseaux publics et deux sous-réseaux privés dans deux zones de disponibilité distinctes.
