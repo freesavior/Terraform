@@ -1,4 +1,4 @@
-# Bloc CIDR pour la VPC
+# Bloc CIDR pour le VPC
 resource "aws_vpc" "main" {
   cidr_block = var.vpc_cidr_block 
 }
