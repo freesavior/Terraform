@@ -22,6 +22,8 @@ Ce dépôt contient des fichiers Terraform pour déployer une infrastructure sur
 
 La structure du répertoire est comme suit :
 .
+```
+.
 ├── main.tf
 ├── modules
 │   ├── auto_scaling
@@ -53,6 +55,8 @@ La structure du répertoire est comme suit :
 │       ├── variables.tf
 │       └── outputs.tf
 └── variables.tf
+```
+
 
 
 
